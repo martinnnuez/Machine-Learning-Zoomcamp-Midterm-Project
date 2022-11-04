@@ -1,6 +1,6 @@
 # Midterm project
 
-    This is my personal midterm project for the Machine Learning Zoomcamp.
+This is my personal midterm project for the Machine Learning Zoomcamp.
 
 ## Objectives of the project
 
@@ -14,7 +14,7 @@
 
 ## Selected dataset: Salary Prediction Classification 
 
-    This database consist of an extraction made by Barry Becker from the 1994 U.S. census database, and the prediction task is to determine whether a person makes over 50K a year. This problmes it is a binary classification problem where the objective class distribution is imbalanced. The dataset consists of 14 input variables where we can find categorical, ordinal, and numerical data. The complete list of variables is:
+This database consist of an extraction made by Barry Becker from the 1994 U.S. census database, and the prediction task is to determine whether a person makes over 50K a year. This problmes it is a binary classification problem where the objective class distribution is imbalanced. The dataset consists of 14 input variables where we can find categorical, ordinal, and numerical data. The complete list of variables is:
 
 * Age.
 * Workclass.
@@ -32,10 +32,11 @@
 * Native-country.
 * Income.
 
-    The objective of this problem is to develop an app that returns whereas a person earns more than 50 K or less. 
+The objective of this problem is to develop an app that returns whereas a person earns more than 50 K or less. 
 
 ### Access the data
-    https://www.kaggle.com/datasets/ayessa/salary-prediction-classification/download?datasetVersionNumber=1
+    
+https://www.kaggle.com/datasets/ayessa/salary-prediction-classification/download?datasetVersionNumber=1
 
 ## Instructions to run:
 
