@@ -1,0 +1,13 @@
+service: "servicebento.py:svc"
+labels:
+  owner: martin-rodriguez-nuñez
+  project: mlzoomcamp
+include:
+- "*.py"
+python:
+  packages:
+    - lightgbm
+    - sklearn
+    - numpy
+    - pandas
+    - category_encoders
